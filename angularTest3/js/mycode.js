@@ -3,12 +3,16 @@
 'use strict';
 
 angular.module('Application', ['ngResource'])
-
+/*
 .factory('UserFactory', function($resource){
-    return $resource('Users/users.json')
+    return $resource('Users/users.json');
 })
+*/
 
-.controller('MainCtrl', function($scope, UserFactory) {
+.controller('MainCtrl', function($scope,$http) {
     $scope.text = 'Hello World!';
-    $scope.users = UserFactory.get();
+    $http.get('Users/users.json').success(function(data){
+        $scope.users =data;
+    })
+
 })

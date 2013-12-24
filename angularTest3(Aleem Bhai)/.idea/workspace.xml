@@ -23,10 +23,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="mycode.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="mycode.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/mycode.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="0" selection-start="345" selection-end="425" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="425">
+            <state line="18" column="0" selection-start="431" selection-end="431" vertical-scroll-proportion="0.68929505" vertical-offset="42" max-vertical-offset="425">
               <folding />
             </state>
           </provider>
@@ -41,19 +41,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="users.json" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/js/Users/users.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="1" selection-start="164" selection-end="164" vertical-scroll-proportion="0.39688715" vertical-offset="0" max-vertical-offset="514">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="myCodeSpec.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/myCodeSpec.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="0" selection-start="525" selection-end="841" vertical-scroll-proportion="0.0" vertical-offset="89" max-vertical-offset="833">
+            <state line="40" column="4" selection-start="1178" selection-end="1178" vertical-scroll-proportion="0.0" vertical-offset="195" max-vertical-offset="833">
               <folding />
             </state>
           </provider>
@@ -82,13 +73,13 @@
     </option>
   </component>
   <component name="JsKarmaPackageDirSetting">
-    <data>C:\Users\Aleem\AppData\Roaming\npm\node_modules\karma</data>
+    <data>C:\Users\Muhammad\AppData\Roaming\npm\node_modules\karma</data>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1296" />
-    <option name="height" value="1000" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -131,11 +122,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="angularTest3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
+              <option name="myItemId" value="angularTest3(Aleem Bhai)" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -145,7 +132,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="angularTest3" />
+              <option name="myItemId" value="angularTest3(Aleem Bhai)" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -159,7 +146,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="angularTest3" />
+              <option name="myItemId" value="angularTest3(Aleem Bhai)" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -178,8 +165,8 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="recentsLimit" value="5" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="FullScreen" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
   </component>
@@ -195,22 +182,6 @@
     </key>
   </component>
   <component name="RunManager" selected="Karma.karma.conf.js">
-    <configuration default="false" name="karma.conf.js" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" temporary="true" config-file="$PROJECT_DIR$/test/karma.conf.js">
-      <envs />
-      <RunnerSettings RunnerId="KarmaJavaScriptTestRunnerDebug" />
-      <RunnerSettings RunnerId="KarmaJavaScriptTestRunnerRun" />
-      <ConfigurationWrapper RunnerId="KarmaJavaScriptTestRunnerDebug" />
-      <ConfigurationWrapper RunnerId="KarmaJavaScriptTestRunnerRun" />
-      <method />
-    </configuration>
-    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
-      <option name="VMOptions" />
-      <option name="arguments" />
-      <option name="filePath" />
-      <option name="scope" value="ALL" />
-      <option name="testName" />
-      <method />
-    </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <option name="VMOptions" />
       <option name="arguments" />
@@ -221,15 +192,23 @@
       <option name="showConsoleOnStdOut" value="false" />
       <method />
     </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
+      <envs />
+      <method />
+    </configuration>
     <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
       <setting name="configLocationType" value="CONFIG_FILE" />
       <setting name="settingsFile" value="" />
       <setting name="serverType" value="INTERNAL" />
       <setting name="preferredDebugBrowser" value="CHROME" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
-      <envs />
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
@@ -239,14 +218,17 @@
       <browser start="false" url="" with-js-debugger="false" />
       <method />
     </configuration>
+    <configuration default="false" name="karma.conf.js" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="$PROJECT_DIR$/test/karma.conf.js">
+      <envs />
+      <RunnerSettings RunnerId="KarmaJavaScriptTestRunnerDebug" />
+      <RunnerSettings RunnerId="KarmaJavaScriptTestRunnerRun" />
+      <ConfigurationWrapper RunnerId="KarmaJavaScriptTestRunnerDebug" />
+      <ConfigurationWrapper RunnerId="KarmaJavaScriptTestRunnerRun" />
+      <method />
+    </configuration>
     <list size="1">
       <item index="0" class="java.lang.String" itemvalue="Karma.karma.conf.js" />
     </list>
-    <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Karma.karma.conf.js" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="TaskManager">
@@ -258,18 +240,18 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32819906" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24980111" sideWeight="0.6706161" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24963397" sideWeight="0.6715928" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3992891" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32938388" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32840723" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -371,7 +353,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test/angular-mocks.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="10" selection-start="984" selection-end="984" vertical-scroll-proportion="1.2903225" vertical-offset="0" max-vertical-offset="36057">
+        <state line="40" column="10" selection-start="984" selection-end="984" vertical-scroll-proportion="1.2903225" vertical-offset="0" max-vertical-offset="36057" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/myCodeSpec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="4" selection-start="1178" selection-end="1178" vertical-scroll-proportion="0.0" vertical-offset="195" max-vertical-offset="833">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/Users/users.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="1" selection-start="164" selection-end="164" vertical-scroll-proportion="0.5714286" vertical-offset="0" max-vertical-offset="357">
           <folding />
         </state>
       </provider>
@@ -385,21 +379,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/mycode.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="0" selection-start="345" selection-end="425" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="425">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/myCodeSpec.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="0" selection-start="525" selection-end="841" vertical-scroll-proportion="0.0" vertical-offset="89" max-vertical-offset="833">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/Users/users.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="1" selection-start="164" selection-end="164" vertical-scroll-proportion="0.39688715" vertical-offset="0" max-vertical-offset="514">
+        <state line="18" column="0" selection-start="431" selection-end="431" vertical-scroll-proportion="0.68929505" vertical-offset="42" max-vertical-offset="425">
           <folding />
         </state>
       </provider>
