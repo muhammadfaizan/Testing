@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html ng-app="Application">
+
+<head lang="en">
+    <title>Test 4</title>
+    <script src="angular.min.js"></script>
+    <script src="angular-resource.min.js"></script>
+    <script src="mycode.js"></script>
+
+</head>
+
+<body ng-controller="MainCtrl">
+<code>
+    {{text}}
+</code>
+<hr />
+<code>
+    {{users}}
+</code>
+<hr />
+<hr />
+<code>
+    Length: {{users.length}}
+    <br>
+    User1: {{users[0].name}}
+    <br>
+    User2: {{users[1].name}}
+    <br>
+
+</code>
+<hr />
+
+</body>
+
+</html>
